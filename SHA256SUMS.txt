@@ -1,0 +1,6 @@
+c81103f2c2fc16b71f6ceabf5253d873f00f2cb49987508e8a4e7832364b2289  firmware/flashed/DXB67N-1330C-2001V0420F503.bin
+22998ac782cf84a672e7f1d4ab7e174f6f2e79675dd73d342ef265aa2145a080  firmware/vendor/Big Sur Sport/BSS Controller - Class Upgrade.bin
+deec67bdbbfe432ab7e8d30cf16833a4f408ae035b546e49f45ed09e2c632870  firmware/vendor/Big Sur Sport/BSS Controller - Factory Reset.bin
+a30d143026317d6429a3b4fc74eeec9e2d6c2f0ab722edb0294d26a269d2f9df  firmware/vendor/Big Sur Sport/BSS Controller - Throttle Reduction 30%.bin
+60ab65035088e8c8ab8e6c638d7fcca709c54fbf94d8747e37e5b80c2f9a56eb  firmware/vendor/Big Sur Sport/BSS Controller - Throttle Unlock.bin
+97a10fd0117c700089c3192a977bce6a07bbf36a697998ca946f790513e4ef19  firmware/vendor/Santa Monica/SM Battery - Upgrade_FW_V1.2.4.5.bin

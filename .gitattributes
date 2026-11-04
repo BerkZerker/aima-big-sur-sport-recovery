@@ -1,0 +1,7 @@
+*.bin binary
+*.mp4 binary
+*.jpg binary
+*.c text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.jsonl -text
